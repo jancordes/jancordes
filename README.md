@@ -1,2 +1,3 @@
-"# jancordes" \n
+"# jancordes"
+
 JUST TESTING SOME GIT FEATURES
